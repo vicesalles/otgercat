@@ -9,9 +9,7 @@ export default function Home() {
       <Head>
         <title>Otger: Neix una nació</title>
         <meta name="description" content="Joc Otger: Neix una nació." />
-        <link rel="icon" href="/favicon.ico" />
-        <link rel="preconnect" href="https://fonts.googleapis.com" crossOrigin/>        
-        <link href="https://fonts.googleapis.com/css2?family=Sawarabi+Mincho&display=swap" rel="stylesheet"></link>
+        <link rel="icon" href="/favicon.ico" />               
       </Head>
 
       <main className={styles.main}>
