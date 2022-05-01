@@ -10,7 +10,7 @@ export default function Home() {
         <title>Otger: Neix una nació</title>
         <meta name="description" content="Joc Otger: Neix una nació." />
         <link rel="icon" href="/favicon.ico" />
-        <link rel="preconnect" href="https://fonts.googleapis.com"/>        
+        <link rel="preconnect" href="https://fonts.googleapis.com" crossOrigin/>        
         <link href="https://fonts.googleapis.com/css2?family=Sawarabi+Mincho&display=swap" rel="stylesheet"></link>
       </Head>
 
