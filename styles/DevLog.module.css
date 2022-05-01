@@ -1,15 +1,31 @@
 .title {
     margin: 0;
+    padding-top: 15px;
     line-height: 1.5;
     font-size: 3rem;
     margin-left: 10px;
     text-align: left;
     color: #FF0000;
     font-family: 'Sawarabi Mincho', serif;
+    cursor: pointer;
   }
 
+
+
 .devlogp{
-    border-top:  solid black 0.5pt;
-    padding: 5px 5px 5px 5px;
+    border-top:  solid #917553 2px;
+    padding: 15px 15px 15px 15px;
     text-align: left;
+}
+
+.devlogp a{
+  background-color: #FF0000;
+  color: white;
+  padding: 0.25px 5px 0.25px 5px;
+}
+
+.devlogp a:hover{
+
+  color: 	#FFD700;
+
 }
