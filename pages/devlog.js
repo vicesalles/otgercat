@@ -1,9 +1,7 @@
 import Head from 'next/head'
-import Image from 'next/image'
-import styles from '../styles/Home.module.css'
-import Link from 'next/link'
+import styles from '../styles/DevLog.module.css'
 
-export default function Home() {
+export default function DevLog() {
   return (
     <div className={styles.container}>
       <Head>
@@ -15,23 +13,19 @@ export default function Home() {
         <link href="https://fonts.googleapis.com/css2?family=Sawarabi+Mincho&display=swap" rel="stylesheet"></link>
       </Head>
 
-      <main className={styles.main}>
+      <main>
         <h1 className={styles.title}>
-          OTGER
+          OTGER DEVLOG
         </h1>
-        <h2 className={styles.title2}>
-          neix una nació
-        </h2>
+
+        <p className={styles.devlogp}>
+            <b>1 de maig de 2022</b> Creació de la primera presència web. Basat en experiències anteriors, opto per un site nextjs allotjat a <a href="https://vercel.com/" target="_blank">vercel</a>. 
+            En aquests moments, fer push al master de Github i oblidar-se de tot, no té preu.
+        </p>
+        
                
       </main>
-
-      <footer className={styles.footer}>
-       
-          <span className={styles.logo}>
-            <Link href="/devlog">videojoc en construcció</Link>            
-          </span>
-       
-      </footer>
+      
     </div>
   )
 }

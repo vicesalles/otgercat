@@ -43,6 +43,15 @@
   margin: 0;
   line-height: 1.15;
   font-size: 4rem;
+  color: #FF0000;
+  font-family: 'Sawarabi Mincho', serif;
+}
+
+.title2 {
+  margin: 0;
+  font-size: 1rem;
+  letter-spacing: 0.25rem;
+  color:  gray;
 }
 
 .title,

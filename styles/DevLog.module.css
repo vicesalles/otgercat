@@ -1,0 +1,15 @@
+.title {
+    margin: 0;
+    line-height: 1.5;
+    font-size: 3rem;
+    margin-left: 10px;
+    text-align: left;
+    color: #FF0000;
+    font-family: 'Sawarabi Mincho', serif;
+  }
+
+.devlogp{
+    border-top:  solid black 0.5pt;
+    padding: 5px 5px 5px 5px;
+    text-align: left;
+}
