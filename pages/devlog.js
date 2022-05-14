@@ -11,7 +11,7 @@ export default function DevLog() {
        </Head>
 
       <main>
-        <Link href="/"><h1 className={styles.title}>
+        <Link href="/" passHref><h1 className={styles.title}>
           OTGER DEVLOG
         </h1></Link>
 
