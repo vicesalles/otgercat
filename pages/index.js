@@ -17,7 +17,7 @@ export default function Home() {
           OTGER
         </h1>
         <h2 className={styles.title2}>
-          neix una nació
+          herois de la frontera
         </h2>
                
       </main>

@@ -4,7 +4,7 @@
     line-height: 1.5;
     font-size: 3rem;
     margin-left: 10px;
-    text-align: left;
+    text-align: center;
     color: #FF0000;
     font-family: 'Sawarabi Mincho', serif;
     cursor: pointer;
@@ -14,8 +14,10 @@
 
 .devlogp{
     border-top:  solid #917553 2px;
-    padding: 15px 15px 15px 15px;
+    padding: 15px 25px 15px 15px;
     text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 .devlogp a{
