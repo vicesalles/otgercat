@@ -17,7 +17,7 @@ export default function Home() {
           OTGER
         </h1>
         <h2 className={styles.title2}>
-          herois de la frontera
+          senyors de la frontera
         </h2>
                
       </main>
@@ -25,7 +25,7 @@ export default function Home() {
       <footer className={styles.footer}>
        
           <span className={styles.logo}>
-            <Link href="/devlog">videojoc en construcció</Link>            
+            <Link href="/devlog">visita el devlog</Link>            
           </span>
        
       </footer>

@@ -28,7 +28,13 @@ export default function DevLog() {
         Aquestes darreres setmanes he estat fent gargots i pensant com donar-li forma. M'imagino clarament com vull que sigui el joc però també sóc conscient de la seva complexitat. Dono per fet que aquest serà un projecte <i>solo</i> i, per tant, quantificar
         recursos i metes intermitges és clau per sortir al mercat. He pres la decisió de trencar la idea general en productes separats que, en un futur ideal, podrien retrobar-se per crear el joc somiat. El primer d'aquests productes serà un joc a mig camí 
         d'un <i>idle</i> i un joc de torres. Aquesta és la mínima expressió de la vessant de gestió del joc amb el que somio.
-        </p>        
+        </p>  
+
+        <p className={styles.devlogp}>
+        <b>19 de maig de 2022</b> Nou nom de treball: Ara, el joc, és diu Senyors de la Frontera. Avui he creat el projecte de Unity i he decidit que utilizaré el <a href="https://www.plasticscm.com/games" target="_blank" rel="noreferrer">Plastic SCM</a> pel control de versions. 
+        Continuo donant voltes a la qüestió de la plataforma de destí. La creació del projecte de Unity és més una declaració d'intensions que un avenç real. Tinc un projecte de prova on estic valorant la viabilitat de que Senyors de la Frontera sigui un joc VR. La qüestió és
+        que no sé si és realista; no sé si sóc capaç dur-lo al mercat.
+        </p>         
                
       </main>
       

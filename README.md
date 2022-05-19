@@ -1,7 +1,7 @@
 # OTGER
-## Neix una nació
+## Senyors de la Frontera
 
-Joc en desenvolupament. Otger, neix una nació és una llegenda interactiva.
+Joc en desenvolupament. 
 
 ## Colors
 
