@@ -34,7 +34,13 @@ export default function DevLog() {
         <b>19 de maig de 2022</b> Nou nom de treball: Ara, el joc, és diu Senyors de la Frontera. Avui he creat el projecte de Unity i he decidit que utilizaré el <a href="https://www.plasticscm.com/games" target="_blank" rel="noreferrer">Plastic SCM</a> pel control de versions. 
         Continuo donant voltes a la qüestió de la plataforma de destí. La creació del projecte de Unity és més una declaració d'intensions que un avenç real. Tinc un projecte de prova on estic valorant la viabilitat de que Senyors de la Frontera sigui un joc VR. La qüestió és
         que no sé si és realista; no sé si sóc capaç dur-lo al mercat.
-        </p>         
+        </p>
+
+        <p className={styles.devlogp}>
+        <b>28 de juliol de 2022</b> L'ús de plastic scm com a control de versions està resultant poc satisfactori. El continuo utilitzant però he eliminat el paquet d'integració a Unity. Dóna problemes. Després d'una caiguda del servei d'internet, el projecte de Unity no s'obria, 
+        es quedava carregant <i>in eternum</i>... Resulta que era culpa del paquet de control de versions que, al no poder-se loguejar, rebentava el procés de càrrega. Fora, l'he borrat. El joc s'ambientarà a l'alta edat mitjana. En una frontera al voltant d'una disputada terra de ningú entre
+        dos imperis en decadència. Continuo treballant en l'apartat de les batalles. N'hi haurà de tres dimensions: Escaramusses, batalles i batalles decisives.
+        </p>             
                
       </main>
       

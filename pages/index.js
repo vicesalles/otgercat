@@ -7,17 +7,17 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Otger: Neix una nació</title>
-        <meta name="description" content="Joc Otger: Neix una nació." />
+        <title>Senyors de la frontera</title>
+        <meta name="description" content="Senyors de la frontera: Un joc de l'alta edat mitjana" />
         <link rel="icon" href="/favicon.ico" />               
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          OTGER
+        senyors de la frontera
         </h1>
         <h2 className={styles.title2}>
-          senyors de la frontera
+          Un joc de l'alta edat mitjana
         </h2>
                
       </main>
